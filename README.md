@@ -1,6 +1,6 @@
 # Análise de Sistemas
 
-Para clonar o reposit├│rio fazer: 
+Para clonar o repositório fazer: 
 ```
 git clone https://github.com/pesobreiro/analise_sistemas.git
 
