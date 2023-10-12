@@ -1,7 +1,3 @@
 teste
 
-<<<<<<< HEAD
 teste fabio
-=======
-teste
->>>>>>> dcd62db563f976d43f6b92136d891bb61ac50681
