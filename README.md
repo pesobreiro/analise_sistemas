@@ -22,22 +22,22 @@ Mais algumas informações sobre UML [aqui](UML/) e exemplos [aqui](exemplos/)
 
 # Informações sobre o projeto
 
-Entregar o ficheiro StarUML, Markdown, Imagens e Apresenta├º├úo
-num ficheiro comprimido no [Moodle][3].
-Exemplos de apresenta├º├╡es podem ser encontrados [aqui][7].
+TODO: EM CONSTRUÇÃO
 
-Mais informa├º├╡es sobre Markdown [aqui][1] e [aqui][2] introdu├º├úo ao Markdown pelo o seu criador John Gruber.
+Entregar o ficheiro StarUML, Markdown, Imagens e Apresentação
+num ficheiro comprimido no [Moodle][3].
+Exemplos de apresentações podem ser encontrados [aqui][7].
+
+Mais informações sobre Markdown [aqui][1] e [aqui][2] introdução ao Markdown pelo o seu criador John Gruber.
 Para editar os ficheiros em markdown podem usar [visual studio code](https://code.visualstudio.com/) com
 a extens├úo [markdown preview enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced).
-Para ativar a pr├⌐-visualiza├º├úo no windows ctrl+shift+v e mac cmd+shift+v. 
+Para ativar a pré visualização no windows ctrl+shift+v e mac cmd+shift+v. 
 
 ![Markdown Preview](./img/markdown_preview.png)
 
-Uma introdu├º├úo ao UML [aqui][2]
+Uma introdução ao UML [aqui][2]
 
-Para os mais saudosos do word podem converter o markdown para por exemplo docx (Microsoft Word) `pandoc -s README.md -o leme.docx` mais instru├º├╡es e exemplos convers├╡es [aqui][5]. [Pandoc][6] pode ser utilizado sem exagero para converter tudo e mais alguma coisa.
-
-
+Para os mais saudosos do word podem converter o markdown para por exemplo docx (Microsoft Word) `pandoc -s README.md -o leme.docx` mais instruções e exemplos conversões [aqui][5]. [Pandoc][6] pode ser utilizado sem exagero para converter tudo e mais alguma coisa.
 
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
