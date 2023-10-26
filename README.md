@@ -5,8 +5,12 @@ Para clonar o repositório fazer:
 git clone https://github.com/pesobreiro/analise_sistemas.git
 
 ```
+Software recomendado:
+* Se não tiverem o git instalado podem instalar a partir de https://git-scm.com/
+* Visual Studio Code https://code.visualstudio.com/
+* StarUML https://staruml.io/
+* Pandoc https://pandoc.org/
 
-Se não tiverem o git instalado podem instalar a partir de https://git-scm.com/
 
 # Comandos principais
 Atualizar um repositório local (descarrega do git par ao computador) : `git pull`
