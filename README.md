@@ -22,8 +22,9 @@ Enviar alterações para o github:
 Mais algumas informações sobre UML [aqui](UML/) e exemplos [aqui](exemplos/) 
 
 # Informações sobre o projeto
-
 TODO: EM CONSTRUÇÃO
+
+Colocar os grupos [aqui](https://docs.google.com/spreadsheets/d/1a5My2zuCotQbwkZel06ojMUggI49vpnfjD-vjJQlhEs/edit?usp=sharing)
 
 Entregar o ficheiro StarUML, Markdown, Imagens e Apresentação
 num ficheiro comprimido no [Moodle][3].
