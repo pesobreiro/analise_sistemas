@@ -6,8 +6,8 @@ git clone https://github.com/pesobreiro/analise_sistemas.git
 
 ```
 Software recomendado:
-* Se não tiverem o git instalado podem instalar a partir de https://git-scm.com/
 * Visual Studio Code https://code.visualstudio.com/
+* git https://git-scm.com/
 * StarUML https://staruml.io/
 * Pandoc https://pandoc.org/
 
