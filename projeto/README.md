@@ -8,25 +8,35 @@
 ## Resumo
         Abstract
 ##    Introdução
-```
-        Apresentação UML
-            "UML is the blueprint of a software system. It is a standard language to specify, visualize, and model the artefacts of a software system. It provides the ability to capture the characteristics of a system by using notations." (Chung and Pak 2006:61)
-            "The origin of UML is archaeological and comprehensive. Three software-engineering gurus contributed significantly: Grady Booch, Ivan Jacobson, and Jim Rumbaugh. Booch was strong in system design, but he neglected analysis (Booch 1994, Booch et al. 1999). Rumbaugh was strong in system analysis, but he put little emphasis on design stage. Jacobson et al. (1999) emphasized user experience. Their early works together established the base for UML in 1990s." (Chung and Pak 2006:61)
-            "The underlying premise of UML is that no one diagram can capture the different elements of a system in its entirety. Hence, UML is made up of eight diagrams that can be used to model a system at different points of time in the software life cycle of a system" (Chung and Pak 2006:61)
-            "Use case diagram: a collection of system functions, showing which actors and processes interact with each use case." (Chung and Pak 2006:61)
-            "Class diagram: shows the classes in a system and variety of relationships (association, aggregation, and inheritance) among classes" (Chung and Pak 2006:62)
-            "State diagram: shows the event-ordered behaviour of an object." (Chung and Pak 2006:62)
-            "Activity diagram: emphasizes the flow of control among objects and models the functions of a system." (Chung and Pak 2006:62)
-            "Sequence diagram: displays object interactions and messages in time-sequence order." (Chung and Pak 2006:62)
-            "Collaboration diagram: displays object interactions in event-sequence order under a relatively complicated circumstance." (Chung and Pak 2006:62)
-            "Component diagram: shows physical components, interfaces, and usage dependency between components." (Chung and Pak 2006:62)
-            "Deployment diagram: shows how physical components are distributed across the physical environment in which the system runs." (Chung and Pak 2006:62
-```
+Apresentação UML
+>    "UML is the blueprint of a software system. It is a standard language to specify, visualize, and model the artefacts of a software system. It provides the ability to capture the characteristics of a system by using notations." (Chung and Pak 2006:61)
 
-Descrição da notação UML
+>    "The origin of UML is archaeological and comprehensive. Three software-engineering gurus contributed significantly: Grady Booch, Ivan Jacobson, and Jim Rumbaugh. Booch was strong in system design, but he neglected analysis (Booch 1994, Booch et al. 1999). Rumbaugh was strong in system analysis, but he put little emphasis on design stage. Jacobson et al. (1999) emphasized user experience. Their early works together established the base for UML in 1990s." (Chung and Pak 2006:61)
 
-Sintaxe utilizada
+>    "The underlying premise of UML is that no one diagram can capture the different elements of a system in its entirety. Hence, UML is made up of eight diagrams that can be used to model a system at different points of time in the software life cycle of a system" (Chung and Pak 2006:61)
 
+>    "Use case diagram: a collection of system functions, showing which actors and processes interact with each use case." (Chung and Pak 2006:61)
+
+>    "Class diagram: shows the classes in a system and variety of relationships (association, aggregation, and inheritance) among classes" (Chung and Pak 2006:62)
+
+>    "State diagram: shows the event-ordered behaviour of an object." (Chung and Pak 2006:62)
+
+>    "Activity diagram: emphasizes the flow of control among objects and models the functions of a system." (Chung and Pak 2006:62)
+
+>    "Sequence diagram: displays object interactions and messages in time-sequence order." (Chung and Pak 2006:62)
+
+>    "Collaboration diagram: displays object interactions in event-sequence order under a relatively complicated circumstance." (Chung and Pak 2006:62)
+
+>    "Component diagram: shows physical components, interfaces, and usage dependency between components." (Chung and Pak 2006:62)
+
+>    "Deployment diagram: shows how physical components are distributed across the physical environment in which the system runs." (Chung and Pak 2006:62)
+
+## Descrição da notação UML
+
+## Sintaxe utilizada
+
+    
+##  Metodologia
 Background empresa
 
 *   Identificar o tipo de organização
@@ -40,8 +50,7 @@ Background empresa
 
         Exemplo
             tese de mestrado
-    
-##  Metodologia
+
 
 Exemplos
 
