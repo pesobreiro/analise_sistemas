@@ -23,7 +23,7 @@ Enviar alterações para o github:
 
 # Noções básicas de UML
 
-Mais algumas informações sobre UML [aqui](UML/) e exemplos [aqui](exemplos/) 
+Mais algumas informações sobre UML [aqui](UML/), exemplos [aqui](exemplos/) e [aqui](https://circle.visual-paradigm.com/category/uml-diagrams/use-case/)
 
 # Informações sobre o projeto
 TODO: EM CONSTRUÇÃO
