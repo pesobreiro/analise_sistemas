@@ -1,12 +1,16 @@
 # Estrutura do trabalho
 
 ## Case study
-        case study: using uml to support business in a TIPO DE EMPRESA
-        Exemplo
+        
+Case study: using uml to support business in a TIPO DE EMPRESA
+
+Exemplo
         Chung, W. W. C., & Pak, J. J. F. (2006). A case study: Using UML to develop a knowledge-based system for supporting business systems in a small financial institute. International Journal of Computer Integrated Manufacturing, 19(1), 59–68. doi: 10.1080/09511920500174380
 
 ## Resumo
-        Abstract
+
+Abstract
+
 ##    Introdução
 Apresentação UML
 >    "UML is the blueprint of a software system. It is a standard language to specify, visualize, and model the artefacts of a software system. It provides the ability to capture the characteristics of a system by using notations." (Chung and Pak 2006:61)
@@ -66,7 +70,7 @@ Exemplos
 
 > "To keep the external validity, the findings were generalized beyond this single case study. This was achieved by replication of the theory in other areas. Tactically, the approach was synthesized in the form of lecture notes and group exercises so that students could understand and replicate the theory. The students' answer should be documented to support further research. In addition, to uphold the reliability, the company background and details of the UML adoption were articulated clearly through the case study" (Chung and Pak 2006:62)
         
-caraterização do problema
+Caraterização do problema
 
 >   Bruegge, B., & Dutoit, A. H. (2010). Object-oriented software engineering: Using UML, patterns, and Java (3rd ed). Prentice Hall. - Overall approach
 
