@@ -83,7 +83,7 @@ Caraterização do problema
 *  Modelo de dominio
 *  Casos de uso
 *  Diagrama de classes
-*  Diagrama de sequência ou atividades
+*  Diagrama de sequência ou atividade
 *  Diagrama de instalação
 *  Ver exemplo
 
