@@ -40,7 +40,7 @@ Apresentação UML
 TODO: como está no artigo do Chung [./docs_apoio](Chung) 
 
 ## Sintaxe utilizada
-
+Este tópico pode ser integrado no tópico anterior
     
 ##  Metodologia
 Background empresa
